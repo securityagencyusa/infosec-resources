@@ -1,2 +1,2 @@
 # infosec-resources
-useful resources for infosec teams
+Useful resources for infosec teams from The Security Agency
