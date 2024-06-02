@@ -8,3 +8,4 @@ Useful resources for infosec teams from [The Security Agency](https://www.securi
 * [purple knight](https://www.purple-knight.com/)
 * [security.txt](https://securitytxt.org/)
 * [ssh+mfa on ubuntu](https://www.digitalocean.com/community/tutorials/how-to-set-up-multi-factor-authentication-for-ssh-on-ubuntu-20-04)
+* [prowler](https://github.com/prowler-cloud/prowler)
